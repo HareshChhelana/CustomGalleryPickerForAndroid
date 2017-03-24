@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <color name="background">#FFFFFF</color>
+    <color name="colorPrimary" tools:override="true">#094578</color>
+    <color name="colorPrimaryDark" tools:override="true">#094578</color>
+    <color name="colorAccent" tools:override="true">#7395b9</color>
+    <color name="done_button_bg">#FFFFFF</color>
+    <color name="done_button_text">#094578</color>
+    <color name="bottom_album_bg">#cc094578</color>
+    <color name="select_image">#88094578</color>
+</resources>
